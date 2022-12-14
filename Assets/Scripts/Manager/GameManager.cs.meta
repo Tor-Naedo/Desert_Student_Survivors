@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 52fdbb6e83b111f46881dc80f183edb7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - merman: {instanceID: 0}
+  - zombie: {instanceID: 0}
+  - Demon: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

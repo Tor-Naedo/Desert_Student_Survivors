@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5b74b431d6de21a40a0672630e0381b2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DiamondPrefab: {fileID: 3530828790392991705, guid: 7f0becb6e0baae2418bea4cae9c344d9, type: 3}
+  - ApplePrefab: {fileID: 6080581045703113163, guid: 3ac9043057b5e32418bafdd0d9c9ee0e, type: 3}
+  - PineapplePrefab: {fileID: 8957115949347740025, guid: 52f8327ecdd5f1b4c8314689ff774469, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

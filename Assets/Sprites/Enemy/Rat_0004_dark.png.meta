@@ -1,0 +1,1322 @@
+fileFormatVersion: 2
+guid: 9a7e5cd03aad5cd41a88354b708a79a1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rat_0004_dark_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 565
+        width: 103
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0c7f4d53105a0488f27804d4b16966
+      internalID: -5833697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 565
+        width: 115
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad7507a7eb0f694bb63ee95a52e90fb
+      internalID: -44891142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_2
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 565
+        width: 136
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e1616c5b4c36248b509dc0a498bccc
+      internalID: -242301132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_3
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 566
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b7b7e593291974f924ce9e2158470e
+      internalID: 1594304546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_4
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 575
+        width: 173
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b285992bad24a442a166053027e06ec
+      internalID: 899047696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_5
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 563
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9dd842fd9a64348968858852239f77
+      internalID: 2039289093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_6
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 569
+        width: 136
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423a6675936975941a45024e543ca1f5
+      internalID: 677742157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_7
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 566
+        width: 105
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035cf6f861f05f644b7012176a1745fc
+      internalID: -202928524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_8
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 566
+        width: 105
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5b2336722e2a64e86e5c791fe46efd
+      internalID: 1750567954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 453
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c800037628bacac4494c109ddb149788
+      internalID: -2070748969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_10
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 453
+        width: 99
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8aa6d6a3036c1e4a9e941cecac467d8
+      internalID: -596980638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_11
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 453
+        width: 103
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1a74800a0905447a48c41794e0ab06
+      internalID: -2101487871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_12
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 454
+        width: 86
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcc3b9f2e40a1843b982f483fcddc6e
+      internalID: 1027715318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_13
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 452
+        width: 109
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0527002b01e6a942b062fa31e9b174f
+      internalID: -1199839110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_14
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 453
+        width: 129
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af5c7994215dfa41b018c7467c4ca70
+      internalID: 1100148831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_15
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 491
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df514b92ba7585c489cc7eb6295dfbec
+      internalID: 898246456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_16
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 486
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad760d35c5c837147900bc12490e238e
+      internalID: 1829844985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_17
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 453
+        width: 101
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4d3220903de664a8b90a1aaf5bbb57
+      internalID: -1203988487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_18
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 340
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcdf97ed2c468e408420d696c02a313
+      internalID: 603463414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 340
+        width: 115
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b6d25d3dd691641bbbe1f84c701d44
+      internalID: -1872631135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_20
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 340
+        width: 135
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5da4751c1297c47a5d88284e07b3ad
+      internalID: -1185460322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_21
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 341
+        width: 86
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144076bde07bf1a49aba96e240d77729
+      internalID: -13513614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_22
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 340
+        width: 109
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0de810e7a60d134cb0c8ba937496546
+      internalID: 1881478523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_23
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 341
+        width: 129
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64886b0b659ac3458cc5e99381fad4e
+      internalID: 1867901397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_24
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 340
+        width: 127
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac0c007e2f25b8459a2deb091638df6
+      internalID: 2023040469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_25
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 340
+        width: 127
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cdc5f0e321acc4db25685656cad4af
+      internalID: 312721199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_26
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 340
+        width: 121
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5d15d0c1d532142a4ea618d5e3a06e
+      internalID: -506753331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_27
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 228
+        width: 103
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd343d9705c63147b9e35911b79ba40
+      internalID: -497718122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_28
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 228
+        width: 115
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b927e0c63c7bde047a3308a0481a8b9a
+      internalID: 1171499211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_29
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 228
+        width: 136
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ca0f3cd41a63447b42c7df19fc3cef
+      internalID: -2060980440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_30
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 266
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1c509ca6e4bec40a90897f008c7f49
+      internalID: 491050071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_31
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 261
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a131e77cd6fdb40bbb0df8ecd20d62
+      internalID: 1148132274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_32
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 228
+        width: 101
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616cdefde8155fe4fb201ee01bc55f73
+      internalID: -38390766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_33
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 228
+        width: 127
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a08cd9c23e35af4c92854cb7eb55656
+      internalID: -635003923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_34
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 228
+        width: 127
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77053b0c34e006048a2567458d78f0a6
+      internalID: 594830168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_35
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 228
+        width: 121
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de874a0dba021234fb2a0c1269cbe78b
+      internalID: -1755247529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_36
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 116
+        width: 97
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf592e9541916943b87aef376cc0712
+      internalID: 355834617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_37
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 115
+        width: 103
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e99eb87af0f0e4da62e21a3ab346f4
+      internalID: -445358040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_38
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 115
+        width: 135
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6348b020325801040a368e30c008767b
+      internalID: -1802508663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_39
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 115
+        width: 94
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309daee477d2b7a4c8b545153dcafd02
+      internalID: 1707194559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_40
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 115
+        width: 92
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54f7ad1bba75134f8bea3f152744efb
+      internalID: -492871561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_41
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 114
+        width: 103
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129d8c0748554044e897aa8ca4dd55e0
+      internalID: 1841935125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_42
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 115
+        width: 127
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d925981f78839664d88af14313f7dc4c
+      internalID: -385449762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_43
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 115
+        width: 127
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cf8f1294d78ba46a513a97ab611ac2
+      internalID: 983652401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_44
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 115
+        width: 121
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0e85fe5e61e104887957b5bbc4a6c5
+      internalID: -1371820357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_45
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 41
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e89efa754da7447b0e3f619e2ea57d
+      internalID: 1830037380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_46
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 36
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f361a0e7bd45b4e823d94db5821e85
+      internalID: -1674911916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_47
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 3
+        width: 101
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ced2d5cf77e4d4fbfaa9c410f19f4d
+      internalID: 248274547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_48
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 2
+        width: 94
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62397a54b72de7a499fadcf55e5485ba
+      internalID: -1417815539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_49
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 2
+        width: 92
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be225501c8175048b1a573d9475d15c
+      internalID: -911387770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_50
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1
+        width: 103
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fabaff8ae72614591e79cba9c776e0
+      internalID: -1312801637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_51
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1
+        width: 135
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65350b30df1e5d64695c196c33a190bc
+      internalID: 1789474734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_52
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 1
+        width: 135
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d0e69d4a9078242b85bdeff0fb2aa8
+      internalID: 1287644578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_0004_dark_53
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1
+        width: 135
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260d37d78e4beb941af6997e49457a2c
+      internalID: 994580955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Rat_0004_dark_21: -13513614
+      Rat_0004_dark_51: 1789474734
+      Rat_0004_dark_9: -2070748969
+      Rat_0004_dark_41: 1841935125
+      Rat_0004_dark_22: 1881478523
+      Rat_0004_dark_32: -38390766
+      Rat_0004_dark_19: -1872631135
+      Rat_0004_dark_48: -1417815539
+      Rat_0004_dark_2: -242301132
+      Rat_0004_dark_27: -497718122
+      Rat_0004_dark_18: 603463414
+      Rat_0004_dark_1: -44891142
+      Rat_0004_dark_15: 898246456
+      Rat_0004_dark_8: 1750567954
+      Rat_0004_dark_17: -1203988487
+      Rat_0004_dark_28: 1171499211
+      Rat_0004_dark_36: 355834617
+      Rat_0004_dark_39: 1707194559
+      Rat_0004_dark_4: 899047696
+      Rat_0004_dark_47: 248274547
+      Rat_0004_dark_16: 1829844985
+      Rat_0004_dark_12: 1027715318
+      Rat_0004_dark_7: -202928524
+      Rat_0004_dark_34: 594830168
+      Rat_0004_dark_5: 2039289093
+      Rat_0004_dark_6: 677742157
+      Rat_0004_dark_11: -2101487871
+      Rat_0004_dark_14: 1100148831
+      Rat_0004_dark_42: -385449762
+      Rat_0004_dark_24: 2023040469
+      Rat_0004_dark_20: -1185460322
+      Rat_0004_dark_33: -635003923
+      Rat_0004_dark_25: 312721199
+      Rat_0004_dark_31: 1148132274
+      Rat_0004_dark_53: 994580955
+      Rat_0004_dark_30: 491050071
+      Rat_0004_dark_35: -1755247529
+      Rat_0004_dark_45: 1830037380
+      Rat_0004_dark_52: 1287644578
+      Rat_0004_dark_40: -492871561
+      Rat_0004_dark_13: -1199839110
+      Rat_0004_dark_26: -506753331
+      Rat_0004_dark_3: 1594304546
+      Rat_0004_dark_37: -445358040
+      Rat_0004_dark_44: -1371820357
+      Rat_0004_dark_49: -911387770
+      Rat_0004_dark_46: -1674911916
+      Rat_0004_dark_23: 1867901397
+      Rat_0004_dark_43: 983652401
+      Rat_0004_dark_50: -1312801637
+      Rat_0004_dark_29: -2060980440
+      Rat_0004_dark_38: -1802508663
+      Rat_0004_dark_10: -596980638
+      Rat_0004_dark_0: -5833697
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
