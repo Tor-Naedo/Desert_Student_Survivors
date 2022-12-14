@@ -1,3 +1,3 @@
 # Desert_Student_Survivors
 
-by Dylan
+by Love<3
