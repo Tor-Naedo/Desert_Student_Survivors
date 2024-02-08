@@ -1,3 +1,6 @@
 # Desert_Student_Survivors
 
-by Love<3
+Here is the link to the game on itch.io
+This was my first game ever made.
+
+https://naedo.itch.io/desert-survivors
